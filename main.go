@@ -1,4 +1,4 @@
 package deptestglideC
 
-type BarVersion1 int
+type BarVersion2 int
 type CommonVar int
